@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @George-Boakye
-- 👀 I’m interested in Javascript, Node.js/Express.js, Vue.js, MongoDB and SQL 
-- 🌱 I’m currently React and Redux
+- 👀 I’m interested in Javascript, Node.js/Express.js, Vue.js, React, MongoDB and SQL 
 - 💞️ I’m looking to collaborate on any frontend or backend project
 - 📫 Reach me on georgekwamekumiboakye@gmail.com 
 
