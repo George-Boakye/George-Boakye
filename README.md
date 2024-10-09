@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @George-Boakye
-- 👀 I’m interested in Javascript, Typescript, c#, .NET core, Node.js/Express.js, Vue.js, React.js, MongoDB, and SQL 
+- 👀 I’m interested in Javascript, Typescript, Node.js/Express.js, Vue.js, React.js, MongoDB, and SQL 
 - 💞️ I’m looking to collaborate on any frontend or backend project
 - 📫 Reach me on georgekwamekumiboakye@gmail.com 
 
